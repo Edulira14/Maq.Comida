@@ -1,0 +1,11 @@
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\bin\Debug\ProjetoMaq.comida.exe.config
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\bin\Debug\ProjetoMaq.comida.exe
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\bin\Debug\ProjetoMaq.comida.pdb
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.csproj.AssemblyReference.cache
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.Form1.resources
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.Properties.Resources.resources
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.csproj.GenerateResource.cache
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.exe
+C:\Users\eduardo.lsilva43\source\repos\ProjetoMaq.comida\ProjetoMaq.comida\obj\Debug\ProjetoMaq.comida.pdb
